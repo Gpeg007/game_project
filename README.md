@@ -1,2 +1,5 @@
 # game_project
-Analysis of video games from around the world
+Analysis of video game sales from top 3 consumer nations
+
+1st analysis:
+  game popularity (via sales) by genre in each region
